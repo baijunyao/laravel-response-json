@@ -1,0 +1,21 @@
+{
+    "name": "baijunyao/laravel-response-json",
+    "description": "json",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "baijunyao",
+            "email": "baijunyao@baijunyao.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Baijunyao\\LaravelResponseJson\\": "src/"
+        },
+        "files": [
+            "src/helpers.php"
+        ]
+    }
+}
